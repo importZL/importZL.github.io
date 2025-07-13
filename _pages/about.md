@@ -25,7 +25,7 @@ Selected Publications
 ------
 (* denotes co-first authors)
 
-- #### Generative AI  Enables Medical Image Segmentation in Ultra Low-Data Regimes.
+- ## Generative AI  Enables Medical Image Segmentation in Ultra Low-Data Regimes.
   Li Zhang, Basu Jindal, Ahmed Alaa, Robert Weinreb, David Wilson, Eran Segal, James Zou, Pengtao Xie
   
   _Nature Communications_, 2025
@@ -33,21 +33,21 @@ Selected Publications
   [PDF](https://arxiv.org/html/2408.17421v1) [CODE](https://github.com/importZL/GenSeg)
 
 
-- #### BLO-SAM: Bi-level Optimization Based Finetuning of the Segment Anything Model for Overfitting-Preventing Semantic Segmentation
+- ## BLO-SAM: Bi-level Optimization Based Finetuning of the Segment Anything Model for Overfitting-Preventing Semantic Segmentation
   Li Zhang, Youwei Liang, Ruiyi Zhang, Amirhosein Javadi, Pengtao Xie
 
   _International Conference on Machine Learning (ICML)_, 2024
 
   [PDF](https://icml.cc/virtual/2024/poster/32990) [CODE](https://github.com/importZL/BLO-SAM)
 
-- #### Learning from Mistakes – a Framework for Neural Architecture Search
+- ## Learning from Mistakes – a Framework for Neural Architecture Search
   Bhanu Garg*, Li Zhang*, Pradyumna Sridhara, Ramtin Hosseini, Eric Xing, Pengtao Xie
 
    _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)_, 2022
 
   [PDF](https://arxiv.org/abs/2111.06353) [CODE](https://github.com/importZL/LFM)
 
-- #### An integrated bottom-up approach for leak detection in water distribution networks based on assessing parameters of water balance model
+- ## An integrated bottom-up approach for leak detection in water distribution networks based on assessing parameters of water balance model
   Jie Yu, Li Zhang, Jinyu Chen, Yao Xiao, Dibo Hou, Pingjie Huang, Guangxin Zhang, Hongjian Zhang
 
   _Water_, 2021
@@ -55,7 +55,7 @@ Selected Publications
   [PDF](https://www.mdpi.com/2073-4441/13/6/867)
 
 
-[More Publications](/publications)
+[More Publications]([/publications](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F44-faf7S_f3JRjy-iVVAFOzj9BUjbNPmnbspJFbCTRoqv9-UER7ux7Vg8Nv-tZ1ELIxmLqk2qvZsA1qChmzb1sE0SDd7sR_RQRoPZp8vcLoAArJT8&user=RRzZk4YAAAAJ))
   
 
 Professional Activities
