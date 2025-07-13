@@ -16,12 +16,12 @@ News
 ======
 - [07/2025] I co-organize a NeurIPS 2025 workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences.
 - [07/2025] [ProteinAligner](https://www.biorxiv.org/content/10.1101/2024.10.06.616870v1) is accepted to ICML 2025 Workshop.
-- [07/2025] [GenSeg](https://arxiv.org/html/2408.17421v1) is accepted to Nature Communications.
+# - [07/2025] [GenSeg](https://arxiv.org/html/2408.17421v1) is accepted to Nature Communications.
 - [01/2025] [Extension of LFM](https://ieeexplore.ieee.org/abstract/document/10855680) is accepted to IEEE Transactions on Artificial Intelligence.
-- [05/2024] [BLO-SAM] (https://icml.cc/virtual/2024/poster/32990)is accepted to ICML 2024.
+- [05/2024] [BLO-SAM](https://icml.cc/virtual/2024/poster/32990)is accepted to ICML 2024.
 - [12/2021] [LFM](https://ojs.aaai.org/index.php/AAAI/article/view/21258) is accepted to AAAI 2022.
 
-Getting started
+Selected Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
