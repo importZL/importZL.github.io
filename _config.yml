@@ -25,7 +25,7 @@ author:
   avatar           : "photo.png"
   name             : # "Li Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate"
+  bio              : # "Ph.D. candidate"
   location         : "San Diego, CA, US"
   employer         : "University of California, San Diego"
   uri              : # URL
