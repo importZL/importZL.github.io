@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Li Zhang"
+  name             : # "Li Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate"
   location         : "San Diego, CA, US"
