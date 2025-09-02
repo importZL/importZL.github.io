@@ -14,6 +14,8 @@ My research has primarily focused on computer vision, deep learning, and large l
 
 News
 ------
+- [09/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is selected as [Nature Communications Editors’ Highlights](https://www.nature.com/collections/aahajfhafc) ("the 50 best papers recently published")!
+- [07/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is featured in [UCSD News](https://today.ucsd.edu/story/new-ai-tool-learns-to-read-medical-images-with-far-less-data).
 - [07/2025] I co-organize a [NeurIPS 2025 workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences](https://neurips.cc/virtual/2025/workshop/109536).
 - [07/2025] [ProteinAligner](https://www.biorxiv.org/content/10.1101/2024.10.06.616870v1) is accepted to ICML 2025 Workshop.
 - [07/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is accepted to Nature Communications.
