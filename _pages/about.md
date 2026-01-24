@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am actively seeking internship opportunities for Summer 2026!
+**I am actively seeking internship opportunities for Summer 2026!**
 
 I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at [UC San Diego](https://www.ucsd.edu/), working on machine learning under the supervision of [Prof. Pengtao Xie](https://pengtaoxie.github.io/). Previously, I received my Master's degree from [Zhejiang University](https://www.zju.edu.cn/english/).
 
