@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am actively seeking internship opportunities for Summer 2026!
+
 I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at [UC San Diego](https://www.ucsd.edu/), working on machine learning under the supervision of [Prof. Pengtao Xie](https://pengtaoxie.github.io/). Previously, I received my Master's degree from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 My research has primarily focused on computer vision, deep learning, and large language/vision models (foundation models). In my prior work, I developed multi-level frameworks to train more powerful models, trained large foundation models in distributed environments, and fine-tuned visual foundation models (SAM) for task-specific applications. A more detailed overview of my work is available in my [CV](../assets/Li_Zhang_CV.pdf).
