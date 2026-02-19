@@ -16,6 +16,7 @@ My research has primarily focused on computer vision, deep learning, and large l
 
 News
 ------
+- [02/2026] Our multi-modal work for protein: [ProteinAligner](https://www.biorxiv.org/content/10.1101/2024.10.06.616870v1) has now been “accepted in principle” as a Research Article at Cell Reports Methods. 
 - [09/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is going to be presented in the [NeurIPS 2025 AI for Science Workshop](https://ai4sciencecommunity.github.io/neurips25.html)!
 - [07/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is featured in [UCSD News](https://today.ucsd.edu/story/new-ai-tool-learns-to-read-medical-images-with-far-less-data).
 - [07/2025] I co-organize a NeurIPS 2025 workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences ([FM4LS](https://neurips.cc/virtual/2025/workshop/109536)).
@@ -65,7 +66,7 @@ Selected Publications
 
 Professional Activities
 ------
-- [06/2025 - Now] Research Scientist Intern at Adobe, San Jose.
+- [06/2025 - 11/2025] Research Scientist Intern at Adobe, San Jose.
   - Watermark-Based Concept Attribution via Prompt Inversion​
   
 - [06/2023 - 09/2023] Research Assistant at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
