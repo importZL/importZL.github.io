@@ -17,7 +17,8 @@ My research has primarily focused on computer vision, deep learning, and large l
 News
 ------
 - [02/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been accepted by CVPR 2026.
-- [02/2026] Our multi-modal work for protein: [ProteinAligner](https://www.biorxiv.org/content/10.1101/2024.10.06.616870v1) has now been “accepted in principle” as a Research Article at Cell Reports Methods. 
+- [02/2026] Our multi-modal work for protein: [ProteinAligner](https://www.biorxiv.org/content/10.1101/2024.10.06.616870v1) has now been “accepted in principle” as a Research Article at Cell Reports Methods.
+- [12/2025] My co-organized NeurIPS workshop ([FM4LS](https://nips2025fm4ls.github.io/index.html)) is going to be held in San Diego, CA. US.
 - [09/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is going to be presented in the [NeurIPS 2025 AI for Science Workshop](https://ai4sciencecommunity.github.io/neurips25.html)!
 - [07/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is featured in [UCSD News](https://today.ucsd.edu/story/new-ai-tool-learns-to-read-medical-images-with-far-less-data).
 - [07/2025] I co-organize a NeurIPS 2025 workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences ([FM4LS](https://neurips.cc/virtual/2025/workshop/109536)).
