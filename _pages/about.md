@@ -32,6 +32,13 @@ Selected Publications
 ------
 (* denotes co-first authors)
 
+- ## TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery.
+  Li Zhang, Shruti Agarwal, John Collomosse, Pengtao Xie, Vishal Asnani
+  
+  _CVPR_, 2026
+
+  [PDF](https://arxiv.org/abs/2602.19019).
+  
 - ## Generative AI  Enables Medical Image Segmentation in Ultra Low-Data Regimes.
   Li Zhang, Basu Jindal, Ahmed Alaa, Robert Weinreb, David Wilson, Eran Segal, James Zou, Pengtao Xie
   
