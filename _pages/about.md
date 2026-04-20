@@ -17,6 +17,7 @@ My research has primarily focused on computer vision, deep learning, and large l
 News
 ------
 - [04/2026] Our multi-modal work for protein: [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) has now been published as a Research Article at Cell Reports Methods.
+- [03/2026] AIBuildAI ranks No.1 on the [MLE-bench](https://github.com/openai/mle-bench/pull/126).
 - [02/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been accepted by CVPR 2026.
 - [09/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is going to be presented in the [NeurIPS 2025 AI for Science Workshop](https://ai4sciencecommunity.github.io/neurips25.html)!
 - [07/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is featured in [UCSD News](https://today.ucsd.edu/story/new-ai-tool-learns-to-read-medical-images-with-far-less-data).
@@ -31,6 +32,12 @@ News
 Selected Publications
 ------
 (* denotes co-first authors)
+
+- ## AIBuildAI: An AI Agent for Automatically Building AI Models
+  Ruiyi Zhang*, Peijia Qin*, Qi Cao*, Li Zhang*, Pengtao Xie
+
+  _Arxiv Preprint_, 2026
+  [PDF](https://arxiv.org/abs/2604.14455). [CODE](https://github.com/aibuildai/AI-Build-AI).
 
 - ## TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery.
   Li Zhang, Shruti Agarwal, John Collomosse, Pengtao Xie, Vishal Asnani
