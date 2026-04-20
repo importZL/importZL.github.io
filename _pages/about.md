@@ -16,6 +16,7 @@ My research has primarily focused on computer vision, deep learning, and large l
 
 News
 ------
+- [04/2026] I will join ByteDance to explore advanced techniques about token compression as a research scientist intern in Summer 2026.
 - [04/2026] Our multi-modal work for protein: [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) has now been published as a Research Article at Cell Reports Methods.
 - [03/2026] AIBuildAI ranks No.1 on the [MLE-bench](https://github.com/openai/mle-bench/pull/126).
 - [02/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been accepted by CVPR 2026.
