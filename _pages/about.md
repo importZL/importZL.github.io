@@ -17,6 +17,7 @@ I will join ByteDance to explore advanced techniques about __token compression__
 
 News
 ------
+- [06/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been honored with the CVPR Compute Transparency Champion award — the highest recognition in CVPR 2026's Compute Reporting Initiative.
 - [06/2026] Adobe has published an [article](https://research.adobe.com/news/tokentrace-at-cvpr-2026-tracing-creative-influence-in-generative-ai/) on the Adobe Research page for TokenTrace.
 - [05/2026] Our work, Position: Creating High-Fidelity Synthetic Training Data Should Employ Multi-level Optimization, is accepted as a position track paper at ICML 2026.
 - [04/2026] Our multi-modal work for protein: [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) has now been published as a Research Article at Cell Reports Methods.
