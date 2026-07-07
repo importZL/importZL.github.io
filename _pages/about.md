@@ -17,22 +17,22 @@ I will join ByteDance to explore advanced techniques about __token compression__
 
 News
 ------
-- [07/2026] My work ([BLO-Inst](https://openreview.net/pdf?id=zN1yKIIVxN)) has been accepted by Transactions on Machine Learning Research.
-- [06/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been honored with the CVPR Compute Transparency Champion award — the highest recognition in CVPR 2026's Compute Reporting Initiative.
+- [07/2026] My work ([BLO-Inst](https://openreview.net/pdf?id=zN1yKIIVxN)) has been accepted by __Transactions on Machine Learning Research__.
+- [06/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been honored with the __CVPR Compute Transparency Champion award__ — the highest recognition in CVPR 2026's Compute Reporting Initiative.
 - [06/2026] Adobe has published an [article](https://research.adobe.com/news/tokentrace-at-cvpr-2026-tracing-creative-influence-in-generative-ai/) on the Adobe Research page for TokenTrace.
-- [05/2026] Our work, [Position](https://openreview.net/pdf?id=aEJS0bIZa4): Creating High-Fidelity Synthetic Training Data Should Employ Multi-level Optimization, is accepted as a position track paper at ICML 2026.
-- [04/2026] Our multi-modal work for protein: [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) has now been published as a Research Article at Cell Reports Methods.
+- [05/2026] Our work, [Position](https://openreview.net/pdf?id=aEJS0bIZa4): Creating High-Fidelity Synthetic Training Data Should Employ Multi-level Optimization, is accepted as a position track paper at __ICML 2026__.
+- [04/2026] Our multi-modal work for protein: [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) has now been published as a Research Article at __Cell Reports Methods__.
 - [03/2026] AIBuildAI ranks No.1 on the [MLE-bench](https://github.com/openai/mle-bench/pull/126).
-- [02/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been accepted by CVPR 2026.
+- [02/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been accepted by __CVPR 2026__.
 - [09/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is going to be presented in the [NeurIPS 2025 AI for Science Workshop](https://ai4sciencecommunity.github.io/neurips25.html)!
 - [07/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is featured in [UCSD News](https://today.ucsd.edu/story/new-ai-tool-learns-to-read-medical-images-with-far-less-data).
 - [07/2025] My co-organized NeurIPS workshop ([FM4LS](https://nips2025fm4ls.github.io/index.html)) is going to be held in San Diego, CA. US.
 - [07/2025] [ProteinAligner](https://www.biorxiv.org/content/10.1101/2024.10.06.616870v1) is accepted to ICML 2025 Workshop.
-- [07/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is accepted to Nature Communications, and selected as [Nature Communications Editors’ Highlights](https://www.nature.com/collections/aahajfhafc) ("the 50 best papers recently published")!
-- [01/2025] [Extension of LFM](https://ieeexplore.ieee.org/abstract/document/10855680) is accepted to IEEE Transactions on Artificial Intelligence.
-- [05/2024] [BLO-SAM](https://icml.cc/virtual/2024/poster/32990) is accepted to ICML 2024.
-- [04/2023] [LBG](https://proceedings.mlr.press/v202/hosseini23a.html) is accepted to ICML 2023.
-- [12/2021] [LFM](https://ojs.aaai.org/index.php/AAAI/article/view/21258) is accepted to AAAI 2022.
+- [07/2025] [GenSeg](https://www.nature.com/articles/s41467-025-61754-6) is accepted to __Nature Communications__, and selected as [Nature Communications Editors’ Highlights](https://www.nature.com/collections/aahajfhafc) ("the 50 best papers recently published")!
+- [01/2025] [Extension of LFM](https://ieeexplore.ieee.org/abstract/document/10855680) is accepted to __IEEE Transactions on Artificial Intelligence__.
+- [05/2024] [BLO-SAM](https://icml.cc/virtual/2024/poster/32990) is accepted to __ICML 2024__.
+- [04/2023] [LBG](https://proceedings.mlr.press/v202/hosseini23a.html) is accepted to __ICML 2023__.
+- [12/2021] [LFM](https://ojs.aaai.org/index.php/AAAI/article/view/21258) is accepted to __AAAI 2022__.
 
 Selected Publications
 ------
