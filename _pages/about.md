@@ -13,7 +13,7 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
 
 My research focuses on developing efficient, trustworthy, and generalizable foundation models for vision and multimodal applications. My work spans efficient vision-language models through adaptive visual-token compression, trustworthy generative models through multi-concept attribution, and learning under limited supervision through synthetic data generation and foundation-model adaptation. I also explore multimodal representation learning in scientific domains, particularly protein understanding. A more detailed overview of my work is available in my [CV](../assets/Li_Zhang_CV.pdf).
 
-I will join ByteDance to explore advanced techniques about __token compression__ as a research scientist intern in Summer 2026!
+I am working on applying our AIBuildAI (a agenetic system to solve machine learning problems automatically) to __speculative decoding__ for LLM inference speed-up!
 
 News
 ------
@@ -86,8 +86,11 @@ Selected Publications
 
 Professional Activities
 ------
+- [06/2026 - 09/2026] Research Scientist Intern at ByteDance, San Diego.
+  - Token compression for efficient VLMs via truncated probing and QTMT-based hierarchies.
+
 - [06/2025 - 11/2025] Research Scientist Intern at Adobe, San Jose.
-  - Watermark-Based Concept Attribution via Prompt Inversion​
+  - Watermark-based concept attribution via prompt inversion​.
   
 - [06/2023 - 09/2023] Research Assistant at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
   - Protein foundation model pre-train and applications.
