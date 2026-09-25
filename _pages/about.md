@@ -13,7 +13,7 @@ I am a Ph.D. candidate in the Department of Electrical and Computer Engineering 
 
 My research focuses on developing efficient, trustworthy, and generalizable foundation models for vision and multimodal applications. My work spans efficient vision-language models through adaptive visual-token compression, trustworthy generative models through multi-concept attribution, and learning under limited supervision through synthetic data generation and foundation-model adaptation. I also explore multimodal representation learning in scientific domains, particularly protein understanding. A more detailed overview of my work is available in my [CV](../assets/Li_Zhang_CV.pdf).
 
-I am working on applying our AIBuildAI (a agenetic system to solve machine learning problems automatically) to __speculative decoding__ for LLM inference speed-up!
+I am working on applying our AIBuildAI (an agentic system to solve machine learning problems automatically) to __speculative decoding__ to speed up LLM inference!
 
 News
 ------
