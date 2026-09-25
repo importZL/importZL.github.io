@@ -34,6 +34,18 @@ News
 - [04/2023] [LBG](https://proceedings.mlr.press/v202/hosseini23a.html) is accepted to __ICML 2023__.
 - [12/2021] [LFM](https://ojs.aaai.org/index.php/AAAI/article/view/21258) is accepted to __AAAI 2022__.
 
+Professional Activities
+------
+- [06/2026 - 09/2026] Research Scientist Intern at ByteDance, San Diego.
+  - Token compression for efficient VLMs via truncated probing and QTMT-based hierarchies.
+
+- [06/2025 - 11/2025] Research Scientist Intern at Adobe, San Jose.
+  - Watermark-based concept attribution via prompt inversion​.
+  
+- [06/2023 - 09/2023] Research Assistant at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
+  - Protein foundation model pre-train and applications.
+
+
 Selected Publications
 ------
 (* denotes co-first authors)
@@ -83,17 +95,6 @@ Selected Publications
 
 [More Publications]([/publications](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F44-faf7S_f3JRjy-iVVAFOzj9BUjbNPmnbspJFbCTRoqv9-UER7ux7Vg8Nv-tZ1ELIxmLqk2qvZsA1qChmzb1sE0SDd7sR_RQRoPZp8vcLoAArJT8&user=RRzZk4YAAAAJ))
   
-
-Professional Activities
-------
-- [06/2026 - 09/2026] Research Scientist Intern at ByteDance, San Diego.
-  - Token compression for efficient VLMs via truncated probing and QTMT-based hierarchies.
-
-- [06/2025 - 11/2025] Research Scientist Intern at Adobe, San Jose.
-  - Watermark-based concept attribution via prompt inversion​.
-  
-- [06/2023 - 09/2023] Research Assistant at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
-  - Protein foundation model pre-train and applications.
 
 Teaching Activities
 ------
