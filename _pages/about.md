@@ -17,6 +17,7 @@ I am working on applying our AIBuildAI (an agentic system to solve machine learn
 
 News
 ------
+- [09/2026] My work [ProteinAligner](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00107-4) has been invited and published the detailed experimental process in __STAR Protocols__.
 - [07/2026] My work ([BLO-Inst](https://openreview.net/pdf?id=zN1yKIIVxN)) has been accepted by __Transactions on Machine Learning Research__.
 - [06/2026] My work ([TokenTrace](https://arxiv.org/abs/2602.19019)) completed during the internship at Adobe has been honored with the __CVPR Compute Transparency Champion award__ — the highest recognition in CVPR 2026's Compute Reporting Initiative.
 - [06/2026] Adobe has published an [article](https://research.adobe.com/news/tokentrace-at-cvpr-2026-tracing-creative-influence-in-generative-ai/) on the Adobe Research page for TokenTrace.
