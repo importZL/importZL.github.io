@@ -86,16 +86,6 @@ Selected Publications
    _Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)_, 2022
 
   [PDF](https://arxiv.org/abs/2111.06353) [CODE](https://github.com/importZL/LFM)
-
-- ## An integrated bottom-up approach for leak detection in water distribution networks based on assessing parameters of water balance model
-  Jie Yu, Li Zhang, Jinyu Chen, Yao Xiao, Dibo Hou, Pingjie Huang, Guangxin Zhang, Hongjian Zhang
-
-  _Water_, 2021
-
-  [PDF](https://www.mdpi.com/2073-4441/13/6/867)
-
-
-[More Publications]([/publications](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F44-faf7S_f3JRjy-iVVAFOzj9BUjbNPmnbspJFbCTRoqv9-UER7ux7Vg8Nv-tZ1ELIxmLqk2qvZsA1qChmzb1sE0SDd7sR_RQRoPZp8vcLoAArJT8&user=RRzZk4YAAAAJ))
   
 
 Teaching Activities
