@@ -55,7 +55,7 @@ Selected Publications
 - ## AIBuildAI: An AI Agent for Automatically Building AI Models
   Ruiyi Zhang*, Peijia Qin*, Qi Cao*, Li Zhang*, Pengtao Xie
 
-  _Arxiv Preprint_, 2026
+  _AI4Research @ International Conference on Machine Learning (ICML)_, 2026
   [PDF](https://arxiv.org/abs/2604.14455). [CODE](https://github.com/aibuildai/AI-Build-AI).
 
 - ## TokenTrace: Multi-Concept Attribution through Watermarked Token Recovery.
